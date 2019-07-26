@@ -1,5 +1,5 @@
 # SpiderSpeciesClassifier
-A CNN that classifies between 6 different species of spiders </br>
+A CNN that classifies between 5 different species of spiders </br>
 
 ### Data
 ![Data](./Screenshots/1.png)
